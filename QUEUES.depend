@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1538594883 source:c:\users\paula\desktop\datastructure\queues\main.cpp
+	<iostream>
+	"Queues.h"
+
+1538594028 source:c:\users\paula\desktop\datastructure\queues\node.cpp
+	"Node.h"
+
+1538594714 c:\users\paula\desktop\datastructure\queues\node.h
+	<iostream>
+
+1538594939 source:c:\users\paula\desktop\datastructure\queues\queues.cpp
+	"Queues.h"
+
+1538594295 c:\users\paula\desktop\datastructure\queues\queues.h
+	"Node.h"
+	<iostream>
+
